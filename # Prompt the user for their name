@@ -1,0 +1,5 @@
+# Prompt the user for their name
+user_name = input("Please enter your name: ")
+
+# Display a welcome message
+print("Welcome, " + user_name + "!")
